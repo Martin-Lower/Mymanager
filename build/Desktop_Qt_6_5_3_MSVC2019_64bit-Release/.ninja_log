@@ -1,0 +1,14 @@
+# ninja log v5
+4	451	7684170960441201	Mymanager_autogen/timestamp	4e2c23b0afcb2f4b
+4	451	7684170960441201	Mymanager_autogen/mocs_compilation.cpp	4e2c23b0afcb2f4b
+4	451	7684170960441201	D:/code/qtcode/Mymanager/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Release/Mymanager_autogen/timestamp	4e2c23b0afcb2f4b
+4	451	7684170960441201	D:/code/qtcode/Mymanager/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Release/Mymanager_autogen/mocs_compilation.cpp	4e2c23b0afcb2f4b
+456	552	7684170962450860	Mymanager_autogen/EWIEGA46WW/qrc_img.cpp	94223553a763ba3d
+456	552	7684170962450860	D:/code/qtcode/Mymanager/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Release/Mymanager_autogen/EWIEGA46WW/qrc_img.cpp	94223553a763ba3d
+567	625	7684170963239542	CMakeFiles/Mymanager.dir/Mymanager_autogen/EWIEGA46WW/qrc_img.cpp.obj	ca939b6a519e9c31
+564	1528	7684170972263892	CMakeFiles/Mymanager.dir/pagemanager.cpp.obj	771c5bf5d6935d61
+562	1961	7684170976579525	CMakeFiles/Mymanager.dir/additemdialog.cpp.obj	759523916ea05026
+555	2539	7684170982347732	CMakeFiles/Mymanager.dir/main.cpp.obj	c2c038bede48c107
+553	2592	7684170982880593	CMakeFiles/Mymanager.dir/Mymanager_autogen/mocs_compilation.cpp.obj	f1e7f2f16722aac
+559	2695	7684170983895226	CMakeFiles/Mymanager.dir/widget.cpp.obj	2c5d0eea040a3a2
+2695	2863	7684170985389510	Mymanager.exe	22d73d21d8116d25
